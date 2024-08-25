@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# customer-sentiment-analysis-and-recommendation-system
-=======
+
 ## Project Overview
 The system will have the following components:
 
@@ -53,4 +51,4 @@ This project is licensed under the MIT License.
 ```bash
 Feel free to expand on this idea and add more features as needed. Let me know if you need any further assistance! 😊
 ```
->>>>>>> c4908e2 (main file added)
+

@@ -1,1 +1,1 @@
-# customer-sentime-nanalysis-and-recommendation-system
+# customer-sentiment-analysis-and-recommendation-system
